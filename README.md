@@ -32,13 +32,13 @@ In this way, there will be direct exchange of data between the person and his/he
 
 ### 🔑 KEY FEATURES OF THE APP
 - Data is stored on the blockchain network hence, there would be no possibility to manipulate the data
-- Once the crop details are entered then no one can modify them
+- Once the assets details are entered then no one can modify them
 - Safe and secure on the Blockchain Network
 - Since there can be no manipulation of data, the entire system is trustworthy and there is transparency
-- The cost to the farmer which served as a commissions to the middlemen, would be completely eliminated
+- The cost to the person which served as a commission to the advocate, would be completely eliminated
 
 ### 🌈 CONCLUSION
-The proposed solution is going to remove all sorts of injustice which sometimes, the advocates do to the people.
+The proposed solution is going to prevent all sorts of injustice which sometimes, the advocates do to the people.
 
 ### FUTURE PROSPECTS
 - Instead of manually initiating the process, we can use an API to fetch the death certificate data which will initiate the will distribution automatically.
