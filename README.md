@@ -5,7 +5,8 @@
 </p>
 
 ## 📄 ABSTRACT
-Blockchain is ideal for every scenario because it can keep an immutable, distributed, and transparent record of all data. Additionally, blockchain is both public and private, since it can protect the identity of every user by using complex and secure protocols. The decentralised nature of the system allows for direct communication between the successors and the inheritors, reducing the number of middlemen who may potentially tamper with the data.
+There's a time in every person's life when they think that their time has come and they should look after their assets and plan the distribution of their will. In times like these, Beyond Bequest comes to their rescue.<br>
+We aim to make this possible by creating a decentralized application which will ensure fair distribution and stamp out the increasing number of conflicts which arise as a result of discrepancies and confusions in the current process.
 
 ## 🗒️ INTRODUCTION
 This project effectively solves the problems which govern the process of will distribution.Nowadays, we see many advocates deceiving their clients by manipulating the data about the assets or their distribution. We aim to make this possible by creating a decentralized application which will
