@@ -1,7 +1,7 @@
 ## Beyond Bequest
 
 <p align="center">
-  
+  <img src="https://user-images.githubusercontent.com/99785671/212412308-232cc9dc-c5fd-44cb-98d2-f00c865c533d.png" />
 </p>
 
 ## 📄 ABSTRACT
