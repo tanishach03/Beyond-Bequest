@@ -1,51 +1,45 @@
-## [Landwind - Tailwind CSS Landing Page](https://demo.themesberg.com/landwind/)
+## Beyond Bequest
 
-<a href="https://demo.themesberg.com/landwind/" rel="Tailwind CSS Landing Page">![Tailwind CSS Landing Page Demo - Flowbite](https://themesberg.s3.us-east-2.amazonaws.com/public/github/landwind/thumbnail.png)</a>
+<p align="center">
+  
+</p>
 
-Landwind is a free and open-source landing page built for SaaS and product websites based on the Tailwind CSS utility-first framework and the Flowbite Component Library featuring a hero section, customer logos, feature sections, testimonials, pricing cards, FAQ section, pre-footer CTA button and a footer.
+## 📄 ABSTRACT
+Blockchain is ideal for every scenario because it can keep an immutable, distributed, and transparent record of all data. Additionally, blockchain is both public and private, since it can protect the identity of every user by using complex and secure protocols. The decentralised nature of the system allows for direct communication between the successors and the inheritors, reducing the number of middlemen who may potentially tamper with the data.
 
-Built with ❤️ by [Themesberg](https://themesberg.com) based on Tailwind CSS and Flowbite.
+## 🗒️ INTRODUCTION
+This project effectively solves the problems which govern the process of will distribution.Nowadays, we see many advocates deceiving their clients by manipulating the data about the assets or their distribution. We aim to make this possible by creating a decentralized application which will
+ensure fair distribution and stamp out the increasing number of conflicts which
+arise as a result of discrepancies and confusions in the current process.
 
-## Live preview
+### 📚 TECH STACK
+- Remix ETH (For Smart Contracts)
+- Metamask (For the smart contract transactions)
+- VS Code 
+- HTML/CSS
+- Tailwind CSS
+- Javascript
+- Web3.JS
+- Ganache 
 
-Check out a live demo by clicking here:
+### ⚙ WORKING
+<p align="center">  
+<img width="466" alt="image" src="https://user-images.githubusercontent.com/99785671/212410582-9636540c-5d47-4f35-a39a-1d1fc042854d.png">
+</p>
+The flowchart above depicts how our solution will work. First the person will be asked to register if not registered yet.The registration process asks for basic details such as name, aadhaar number, phone number, email id etc.If the farmer is already registered on the portal, then he/she can enter the credentials to login and then to continue towards distributing his/her assets and this is how the data will be sent, directly to the database without any modifications. On the other hand, once the government receives the data in its database the quality of the produce can be verified manually and, if approved, the necessary actions can be taken and a certificate in the form of an NFT will be generated at the receiver’s end.
+In this way, there will be direct exchange of data between the person and his/her successor. Hence there would be transparency, the costs forced by the middlemen (advocates) would be completely eliminated, and the method is secure and trustworthy since there is no involvement of any third-party services.
 
-🔗 [Landwind live preview](https://demo.themesberg.com/landwind/) (🌗 switch on dark mode using your computer preferences)
+### 🔑 KEY FEATURES OF THE APP
+- Data is stored on the blockchain network hence, there would be no possibility to manipulate the data
+- Once the crop details are entered then no one can modify them
+- Safe and secure on the Blockchain Network
+- Since there can be no manipulation of data, the entire system is trustworthy and there is transparency
+- The cost to the farmer which served as a commissions to the middlemen, would be completely eliminated
 
-## Getting started
+### 🌈 CONCLUSION
+The proposed solution is going to remove all sorts of injustice which sometimes, the advocates do to the people.
 
-Make sure that you have [Node.js](https://nodejs.org/en/), [Tailwind CSS](https://tailwindcss.com/docs/installation) and [Flowbite](https://flowbite.com/docs/getting-started/quickstart/) installed.
-
-1. Run `npm install` inside your terminal
-
-2. Watch for files and compile Tailwind CSS + Flowbite:
-
-```
-npx tailwindcss -i ./input.css -o ./output.css --watch
-```
-
-3. To deploy you will only need the `index.html` file and the `output.css` styles.
-
-Alternatively you can also just directly copy this code into your own projects, whether you use Laravel, React, Vue.js or other frameworks.
-
-## Figma design file
-
-We have also built a free Figma design file that you can duplicate from the community website:
-
-👉 [Landwind - Figma Landing Page](https://www.figma.com/community/file/1125744163617429490)
-
-## Built with Tailwind CSS and Flowbite
-
-This landing page was built using the following technologies:
-
-- 🔗 [Tailwind CSS](https://tailwindcss.com/)
-- 🔗 [Flowbite Library](https://flowbite.com/docs/getting-started/introduction/)
-- 🔗 [Flowbite Blocks](https://flowbite.com/blocks/)
-
-## About us
-
-We build free and premium themes with technologies such as Bootstrap, React, Tailwind, Vue, Laravel and more over at [Themesberg](https://themesberg.com).
-
-## License
-
-This project is open source under the MIT license.
+### FUTURE PROSPECTS
+- Instead of manually initiating the process, we can use an API to fetch the death certificate data which will initiate the will distribution automatically.
+- The government can make use of this application to make the process of will distribution secure, transparent and reliable.
+- Unique certificates in form of NFT can be generated which will ensure fairer distribution.
